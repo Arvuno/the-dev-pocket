@@ -185,3 +185,6 @@ If you prefer Docker or have a local database, include instructions in `README.m
 ---
 
 Thanks for contributing to **The Dev Pocket** — your work helps the whole community grow! 🚀
+
+<!-- Star this if it helped -->
+
