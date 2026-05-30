@@ -17,7 +17,7 @@
 <br/>
 
 ![GSSoC Badge](https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=git&logoColor=white)
-![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hackaday)
+![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2026-blueviolet?style=for-the-badge&logo=hackaday)
 ![EWOCS Badge](https://img.shields.io/badge/ECWoC-2026-violet?style=for-the-badge&logo=hackaday)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
@@ -336,7 +336,7 @@ Contribute to real-world projects and grow your open source skills this summer!
 <br/>
 Submit **6 quality PRs** to win official Hacktoberfest swag!
 <br/><br/>
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hackaday)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2026-blueviolet?style=for-the-badge&logo=hackaday)
 
 </td>
 
